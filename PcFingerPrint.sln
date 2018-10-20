@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcFingerPrintClient", "PcFingerPrintClient\PcFingerPrintClient.csproj", "{966D93DB-10A1-4EB3-9AE0-049FA267F40C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemUtil", "SystemUtil\SystemUtil.csproj", "{DB3E3B0C-AC0E-4AE6-93DC-03B3CD76BCDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{966D93DB-10A1-4EB3-9AE0-049FA267F40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966D93DB-10A1-4EB3-9AE0-049FA267F40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966D93DB-10A1-4EB3-9AE0-049FA267F40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966D93DB-10A1-4EB3-9AE0-049FA267F40C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB3E3B0C-AC0E-4AE6-93DC-03B3CD76BCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3E3B0C-AC0E-4AE6-93DC-03B3CD76BCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3E3B0C-AC0E-4AE6-93DC-03B3CD76BCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3E3B0C-AC0E-4AE6-93DC-03B3CD76BCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
